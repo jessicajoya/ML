@@ -1,10 +1,10 @@
-## 🧪 Talleres y Laboratorios Prácticos
+## 🧪 Hands-On Machine Learning: From Foundations to Models
 
-Este repositorio contiene las prácticas realizadas en Analisis con ML, donde se abordan problemas de aprendizaje supervisado, no supervisado y preparación de datos.
+This repository contains the practical labs completed in the **Analysis with Machine Learning** course, covering supervised learning, unsupervised learning, and data preprocessing techniques[cite: 2, 4, 5].
 
-| Laboratorio | Tema Principal | Algoritmos & Técnicas | Dataset / Caso de Uso | Enlace |
+| Lab | Main Topic | Algorithms & Techniques | Dataset / Use Case | Link |
 | :--- | :--- | :--- | :--- | :---: |
-| **Lab 1: Regresión** | Predicción numérica y regularización | Regresión Lineal, Lasso, Ridge, Selección de Modelos | Datos numéricos / Predicción | [![Colab](https://img.shields.io/badge/Open_in-Colab-orange?logo=googlecolab)](tu-link-aqui) |
-| **Lab 2: Clasificación** | Clasificación supervisada y ensamble | Regresión Logística, SVM, Árboles de Decisión, Random Forest | Clasificación multiclase y datos no balanceados | [![Colab](https://img.shields.io/badge/Open_in-Colab-orange?logo=googlecolab)](tu-link-aqui) |
-| **Lab 4: Agrupación** | Clustering y análisis no supervisado | K-Means, DBSCAN, Evaluación de clusters | Aprendizaje de patrones / Segmentación | [![Colab](https://img.shields.io/badge/Open_in-Colab-orange?logo=googlecolab)](tu-link-aqui) |
-| **Lab 5: Reducción** | Reducción de dimensionalidad | PCA, t-SNE, Detección de anomalías | Datos de alta dimensionalidad / Embeddings | [![Colab](https://img.shields.io/badge/Open_in-Colab-orange?logo=googlecolab)](tu-link-aqui) |
+| **Lab 1: Regression** | Numerical prediction & regularization | Linear Regression, Lasso, Ridge, Model Selection | Numerical data / Predictive modeling | [![Colab](https://img.shields.io/badge/Open_in-Colab-orange?logo=googlecolab)](your-link-here) |
+| **Lab 2: Classification** | Supervised classification & ensemble methods | Logistic Regression, SVM, Decision Trees, Random Forest | Multiclass classification & imbalanced data | [![Colab](https://img.shields.io/badge/Open_in-Colab-orange?logo=googlecolab)](your-link-here) |
+| **Lab 4: Clustering** | Unsupervised learning & cluster analysis | K-Means, DBSCAN, Cluster Evaluation | Pattern discovery / Customer segmentation | [![Colab](https://img.shields.io/badge/Open_in-Colab-orange?logo=googlecolab)](your-link-here) |
+| **Lab 5: Dimensionality Reduction** | Dimensionality reduction & anomaly detection | PCA, t-SNE, Isolation Forest, Anomaly Detection | High-dimensional data / Feature embeddings | [![Colab](https://img.shields.io/badge/Open_in-Colab-orange?logo=googlecolab)](your-link-here) |
