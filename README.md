@@ -1,6 +1,6 @@
 <h3>🧪 Hands-On Machine Learning: From Foundations to Models</h3>
 
-This repository contains the practical labs completed in the **Analysis with Machine Learning** course, covering supervised learning, unsupervised learning, and data preprocessing techniques[cite: 2, 4, 5].
+This repository contains the practical labs completed in the **Applied Machine Learning** course at Universidad de los Andes, covering supervised learning, unsupervised learning, and data preprocessing techniques.
 
 | Lab | Main Topic | Algorithms & Techniques | Dataset / Use Case | Link |
 | :--- | :--- | :--- | :--- | :---: |
