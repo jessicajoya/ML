@@ -1,4 +1,4 @@
-## 🧪 Hands-On Machine Learning: From Foundations to Models
+<h3>🧪 Hands-On Machine Learning: From Foundations to Models</h3>
 
 This repository contains the practical labs completed in the **Analysis with Machine Learning** course, covering supervised learning, unsupervised learning, and data preprocessing techniques[cite: 2, 4, 5].
 
